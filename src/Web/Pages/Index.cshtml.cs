@@ -2,7 +2,7 @@
 using Microsoft.eShopWeb.Web.Services;
 using Microsoft.eShopWeb.Web.ViewModels;
 using Microsoft.Extensions.Options;
-
+#comment
 namespace Microsoft.eShopWeb.Web.Pages;
 
 public class IndexModel : PageModel
